@@ -1,0 +1,11 @@
+{
+  "name": "collagebackend",
+  "version": "1.0.0",
+  "description": "This is the base backend ",
+  "main": "npm run dev",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "Nitesh Sharma",
+  "license": "MIT"
+}
